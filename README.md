@@ -35,6 +35,6 @@ A digital, full-stack adaptation of the popular bluffing and deception card game
 * **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-alhasson-b81478244/]((https://www.linkedin.com/in/mustafa-alhasson-b81478244/)) 
+* 💼 **LinkedIn:** [linkedin.com/in/mustafa-alhasson-b81478244](https://linkedin.com/in/mustafa-alhasson-b81478244)
 * 📧 **Email:** [pascalmmka@gmail.com](pascalmmka@gmail.com) 
 
