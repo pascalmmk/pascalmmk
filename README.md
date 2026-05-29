@@ -24,7 +24,7 @@ I am a **Software engineer** who loves building impactful, data-driven web appli
 
 #### 🍃 [EcoTrack]
 A comprehensive ESG and carbon emission reporting platform designed to help organizations calculate, track, and visualize their carbon footprint through data-driven digital twins.
-* **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, firebase
+* **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js
 
 #### 🌌 [NASA Space Apps Challenge Project](https://github.com/pascalmmk/Nasa-Hackthon)
 A full-stack web application built for the global NASA Space Apps Challenge hackathon, focusing on leveraging open data to tackle real-world planetary and environmental challenges.
@@ -32,7 +32,7 @@ A full-stack web application built for the global NASA Space Apps Challenge hack
 
 #### 🃏 [Coup Board Game](https://github.com/pascalmmk/coup_game)
 A digital, full-stack adaptation of the popular bluffing and deception card game, *Coup*. Built to bring the strategic elements of deduction, influence, and political manipulation into an interactive, web-based multiplayer environment.
-* **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js
+* **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Firebase
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in/mustafa-alhasson-b81478244](https://linkedin.com/in/mustafa-alhasson-b81478244)
