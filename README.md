@@ -33,15 +33,6 @@ A full-stack web application built for the global NASA Space Apps Challenge hack
 #### 🃏 [Coup Board Game](https://github.com/pascalmmk/coup_game)
 A digital, full-stack adaptation of the popular bluffing and deception card game, *Coup*. Built to bring the strategic elements of deduction, influence, and political manipulation into an interactive, web-based multiplayer environment.
 * **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js
----
-### 📈 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=pascalmmk&show_icons=true&theme=tokyonight" alt="GitHub Metrics" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pascalmmk&layout=compact&theme=tokyonight" alt="Language Distribution" height="180" />
-</p>
-
----
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-alhasson-b81478244/]((https://www.linkedin.com/in/mustafa-alhasson-b81478244/)) 
