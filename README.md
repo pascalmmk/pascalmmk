@@ -35,10 +35,17 @@ A digital, full-stack adaptation of the popular bluffing and deception card game
 * **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
+🏆 **GitHub Trophies**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pascalmmk&show_icons=true&theme=tokyonight" alt="GitHub Metrics" height="180" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pascalmmk&theme=onedark&column=7&margin-w=15" alt="pascalmmk Trophies" />
+  </a>
+</p>
+
+📊 **Most Used Languages**
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalmmk&layout=compact&theme=tokyonight" alt="Language Distribution" height="180" />
 </p>
 
