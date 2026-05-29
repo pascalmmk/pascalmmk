@@ -34,19 +34,11 @@ A full-stack web application built for the global NASA Space Apps Challenge hack
 A digital, full-stack adaptation of the popular bluffing and deception card game, *Coup*. Built to bring the strategic elements of deduction, influence, and political manipulation into an interactive, web-based multiplayer environment.
 * **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js
 ---
-
 ### 📈 GitHub Analytics
 
-🏆 **GitHub Trophies**
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pascalmmk&theme=onedark&column=7&margin-w=15" alt="pascalmmk Trophies" />
-  </a>
-</p>
-
-📊 **Most Used Languages**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalmmk&layout=compact&theme=tokyonight" alt="Language Distribution" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=pascalmmk&show_icons=true&theme=tokyonight" alt="GitHub Metrics" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pascalmmk&layout=compact&theme=tokyonight" alt="Language Distribution" height="180" />
 </p>
 
 ---
