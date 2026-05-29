@@ -38,8 +38,8 @@ A digital, full-stack adaptation of the popular bluffing and deception card game
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pascalmmk&show_icons=true&theme=tokyonight" alt="Pascal's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalmmk&layout=compact&theme=tokyonight" alt="Pascal's Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pascalmmk&show_icons=true&theme=tokyonight" alt="GitHub Metrics" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalmmk&layout=compact&theme=tokyonight" alt="Language Distribution" height="180" />
 </p>
 
 ---
