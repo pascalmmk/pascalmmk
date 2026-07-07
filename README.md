@@ -22,7 +22,7 @@ I am a **Software engineer** who loves building impactful, data-driven web appli
 
 ### 🏆 Featured Projects
 
-#### 📄 [DocQA]
+#### 📄 [DocQA](https://github.com/pascalmmk/docqa)
 A RAG-based document Q&A service — upload PDFs or text files and ask questions in a chat interface, with answers streamed token-by-token and backed by inline citations linking to source passages. Built around a production-style backend: async ingestion pipeline with queues and retries, hybrid vector + full-text retrieval, per-user rate limiting, and an automated eval harness measuring retrieval accuracy (100% hit@8) in CI.
 
 Tech Stack: TypeScript, Fastify, Next.js, PostgreSQL (pgvector), Redis, BullMQ, OpenAI API, Fly.io
