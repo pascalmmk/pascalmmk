@@ -22,6 +22,12 @@ I am a **Software engineer** who loves building impactful, data-driven web appli
 
 ### 🏆 Featured Projects
 
+#### 📄 [DocQA]
+A RAG-based document Q&A service — upload PDFs or text files and ask questions in a chat interface, with answers streamed token-by-token and backed by inline citations linking to source passages. Built around a production-style backend: async ingestion pipeline with queues and retries, hybrid vector + full-text retrieval, per-user rate limiting, and an automated eval harness measuring retrieval accuracy (100% hit@8) in CI.
+
+Tech Stack: TypeScript, Fastify, Next.js, PostgreSQL (pgvector), Redis, BullMQ, OpenAI API, Fly.io
+
+
 #### 🍃 [EcoTrack](https://app.ecotrack.dhsyazilim.com/login)
 A comprehensive ESG and carbon emission reporting platform designed to help organizations calculate, track, and visualize their carbon footprint through data-driven digital twins.
 * **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js
@@ -33,6 +39,7 @@ A full-stack web application built for the global NASA Space Apps Challenge hack
 #### 🃏 [Coup Board Game](https://github.com/pascalmmk/coup_game)
 A digital, full-stack adaptation of the popular bluffing and deception card game, *Coup*. Built to bring the strategic elements of deduction, influence, and political manipulation into an interactive, web-based multiplayer environment.
 * **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Firebase
+
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in/mustafa-alhasson-b81478244](https://linkedin.com/in/mustafa-alhasson-b81478244)
