@@ -22,7 +22,7 @@ I am a **Software engineer** who loves building impactful, data-driven web appli
 
 ### 🏆 Featured Projects
 
-#### 📄 [DocQA](https://github.com/pascalmmk/docqa)
+#### 📄 [DocQA](https://docqa-web.vercel.app/)
 A RAG-based document Q&A service — upload PDFs or text files and ask questions in a chat interface, with answers streamed token-by-token and backed by inline citations linking to source passages. Built around a production-style backend: async ingestion pipeline with queues and retries, hybrid vector + full-text retrieval, per-user rate limiting, and an automated eval harness measuring retrieval accuracy (100% hit@8) in CI.
 
 Tech Stack: TypeScript, Fastify, Next.js, PostgreSQL (pgvector), Redis, BullMQ, OpenAI API, Fly.io
@@ -36,7 +36,7 @@ A comprehensive ESG and carbon emission reporting platform designed to help orga
 A full-stack web application built for the global NASA Space Apps Challenge hackathon, focusing on leveraging open data to tackle real-world planetary and environmental challenges.
 * **Tech Stack:** React, Tailwind CSS, Node.js, Render
 
-#### 🃏 [Coup Board Game](https://github.com/pascalmmk/coup_game)
+#### 🃏 [Coup Board Game](https://coup-game-ed496.web.app/)
 A digital, full-stack adaptation of the popular bluffing and deception card game, *Coup*. Built to bring the strategic elements of deduction, influence, and political manipulation into an interactive, web-based multiplayer environment.
 * **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Firebase
 
