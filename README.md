@@ -42,6 +42,6 @@ A digital, full-stack adaptation of the popular bluffing and deception card game
 
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/mustafa-alhasson-b81478244](https://linkedin.com/in/mustafa-alhasson-b81478244)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-alhasson-11996b437/](https://www.linkedin.com/in/mustafa-alhasson-11996b437/)
 * 📧 **Email:** [pascalmmka@gmail.com](pascalmmka@gmail.com) 
 
