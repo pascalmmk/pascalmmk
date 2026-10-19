@@ -37,8 +37,8 @@ A full-stack web application built for the global NASA Space Apps Challenge hack
 * **Tech Stack:** React, Tailwind CSS, Node.js, Render
 
 #### 🃏 [Coup Board Game](https://coup-game-ed496.web.app/)
-A digital, full-stack adaptation of the popular bluffing and deception card game, *Coup*. Built to bring the strategic elements of deduction, influence, and political manipulation into an interactive, web-based multiplayer environment.
-* **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Firebase
+A cross-platform multiplayer adaptation of *Coup* with actions, character abilities, challenges, and blocking. Uses Riverpod for application state, Cloud Firestore for shared session updates, and Firebase Auth for player authentication.
+* **Tech Stack:** Flutter, Dart, Riverpod, Cloud Firestore, Firebase Auth
 
 
 ### 📫 Connect with Me
