@@ -22,6 +22,10 @@ I am a **Software engineer** who loves building impactful, data-driven web appli
 
 ### 🏆 Featured Projects
 
+#### 🎵 [SoundQuest](https://github.com/pascalmmk/soundquest)
+An adaptive soundtrack studio for games with per-state stem mixing, beat-aligned transitions, configurable crossfades, and a playable game preview. Includes draggable workspace panels, owner-scoped project storage, saved versions, audio uploads, JSON export, and a browser playback SDK.
+* **Tech Stack:** React, TypeScript, Web Audio API, Cloudflare D1, Cloudflare R2
+
 #### 📄 [DocQA](https://docqa-web.vercel.app/)
 A RAG-based document Q&A service — upload PDFs or text files and ask questions in a chat interface, with answers streamed token-by-token and backed by inline citations linking to source passages. Built around a production-style backend: async ingestion pipeline with queues and retries, hybrid vector + full-text retrieval, per-user rate limiting, and an automated eval harness measuring retrieval accuracy (100% hit@8) in CI.
 
